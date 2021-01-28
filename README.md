@@ -10,7 +10,7 @@ razei cercului incadrator, in functie de tipul lor.
 Clasa Cadran reprezinta mai degraba spatiul de lucru. Aici am inclus si o metoda pentru calculul cadranului in care se
 afla un punct (va fi folosita pentru incadrarea centrului unei figuri).
 Munca "mai grea" a inceput in scriptul main, unde ruleaza programul si unde am facut urmatoarele lucruri:
-- folosind modulu os am initializat o lista cu numele fisierelor de intrare prin care am iterat (ca sa 
+- folosind modulul os am initializat o lista cu numele fisierelor de intrare prin care am iterat (ca sa 
 automatizez procesul de verificare a testelor);
 - pentru fiecare test (fisier de intrare), citesc din fisier si initilizez obiecte in functie de tipul lor, prima linie
 reprezentand intotdeauna coordonatele spatiului de lucru;
